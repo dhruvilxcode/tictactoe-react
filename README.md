@@ -1,6 +1,8 @@
 # Tic Tac Toe Game in React
 
 ## Demo
+[https://game-tic-demo.netlify.app/](https://game-tic-demo.netlify.app/)
+
 ![image](./preview.gif)
 
 # Technologies
