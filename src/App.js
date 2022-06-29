@@ -117,9 +117,9 @@ const App = () => {
             className="md:w-32 md:h-32 w-28 h-28 border flex items-center justify-center hover:cursor-pointer hover:bg-slate-600 duration-300"
           >
             {box === "cross" ? (
-              <img src={cross} className="zoom-in" />
+              <img src={cross} className="zoom-in" alt="" />
             ) : box === "circle" ? (
-              <img src={circle} className="zoom-in" />
+              <img src={circle} className="zoom-in" alt="" />
             ) : (
               <></>
             )}
