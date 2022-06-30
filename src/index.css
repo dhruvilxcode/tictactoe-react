@@ -12,7 +12,7 @@ body {
 }
 
 .zoom-in {
-  animation: zoom-in-animation .4s ease-in-out;
+  animation: zoom-in-animation .2s ease;
 }
 
 @keyframes zoom-in-animation {
@@ -23,7 +23,7 @@ body {
     transform: scale(1);
 
   }
-  90% {
-    transform: scale(1.2);
+  95% {
+    transform: scale(1.1);
   }
 }
